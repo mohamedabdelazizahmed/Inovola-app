@@ -1,0 +1,62 @@
+{
+    "latest-news-1": [
+        {
+            "title": "title 1 ",
+            "Content": "content 1 ",
+            "rating": "5/10",
+            "datetime": "Mon, Dec 14 2020 04:01:59 GMT +0200"
+        },
+        {
+            "title": "title 2 ",
+            "Content": "content 2 ",
+            "rating": "9/10",
+            "datetime": "Mon, 14 Dec 2020 14:02:59 +0000"
+        },
+        {
+            "title": "title 3 ",
+            "Content": "content 3 ",
+            "rating": "2/10",
+             "datetime": "Mon, 14 Dec 2020 06:04:59 +0000 "
+        }
+    ],
+    "latest-news-2": [
+        {
+            "title": "title 4 ",
+            "Content": "content 4 ",
+            "rating": "3/10",
+            "datetime": "Mon, 14 Dec 2020 13:01:59 +0000 "
+        },
+        {
+            "title": "title 5 ",
+            "Content": "content 5 ",
+            "rating": "9/10",
+             "datetime": "Mon, 14 Dec 2020 00:02:59 +0000 "
+        },
+        {
+            "title": "title 6 ",
+            "Content": "content 6 ",
+            "rating": "6/10",
+             "datetime": "Mon, 14 Dec 2020 00:00:00 +0000 "
+        }
+    ],
+    "latest-news-3": [
+        {
+            "title": "title 7 ",
+            "Content": "content 7 ",
+            "rating": "6/10",
+             "datetime": "Mon, 14 Dec 2020 08:01:59 +0000 "
+        },
+        {
+            "title": "title 8 ",
+            "Content": "content 8 ",
+            "rating": "8/10",
+             "datetime": "Mon, 14 Dec 2020 03:02:59 +0000 "
+        },
+        {
+            "title": "title 9 ",
+            "Content": "content 9 ",
+            "rating": "1/10",
+             "datetime": "Mon, 14 Dec 2020 12:00:00 +0000 "
+        }
+    ]
+}
